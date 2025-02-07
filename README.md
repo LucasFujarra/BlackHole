@@ -26,4 +26,4 @@
 </div>
 
 # Download 💾
-[<img src="https://raw.githubusercontent.com/ismartcoding/plain-app/main/assets/get-it-on-github.png" alt="GitHub" height="80">](https://github.com/LucasFujarra/Colab/releases/latest)
+[<img src="https://raw.githubusercontent.com/ismartcoding/plain-app/main/assets/get-it-on-github.png" alt="GitHub" height="80">](https://github.com/LucasFujarra/BlackHole/releases/latest)
