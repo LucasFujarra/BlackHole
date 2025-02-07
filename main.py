@@ -21,7 +21,7 @@ def tela ():
   print("█ ")
   print("█ -- Download--")
   print("█ 1 - Baixar Vídeo (MP4)")
-  print("█ 2 - Baixar Áudio (MA4)")
+  print("█ 2 - Baixar Áudio (M4A)")
 
 logo()  
 time.sleep(2)
