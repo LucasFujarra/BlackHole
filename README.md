@@ -4,7 +4,7 @@
 </p>
 
 
-### O BlackHole é um aplicativo criado em Python que utiliza a biblioteca pytubefix. Ele permite o download de Vídeos e Músicas do Youtube em instantes, sem a presença de anúncios incômodos.
+### O BlackHole é um aplicativo criado em Python que utiliza a biblioteca Pytubefix e Streamlit. Ele permite o download de Vídeos e Músicas do Youtube em instantes, sem a presença de anúncios incômodos.
 
 # Funcionalidades 🛠
 * Acesso ao Aplicativo online [Aqui](https://blackhole.streamlit.app/)
