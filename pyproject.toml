@@ -6,7 +6,7 @@ authors = [
     {name = "LucasFujarra",email = "lucasfujarra1@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 dependencies = [
     "streamlit (>=1.42.0,<2.0.0)",
     "pytubefix (>=8.12.1,<9.0.0)"
