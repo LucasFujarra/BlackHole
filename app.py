@@ -3,7 +3,7 @@
 #---_ https://github.com/LucasFujarra _---
 import os
 import streamlit as st
-import pytubefix
+import pytube
 from pytubefix import YouTube
 
 #Busca por URL
