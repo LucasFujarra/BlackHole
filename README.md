@@ -8,7 +8,7 @@
 
 # Funcionalidades 🛠
 * Acesso ao Aplicativo online [Aqui](https://blackhole.streamlit.app/)
-* Compatibilidade com Windos no download .exe
+* Compatibilidade com Windows no download .exe
 * Compatibilidade para todas plataformas utilizando o arquivo [BlackHole.py](https://github.com/LucasFujarra/BlackHole/releases/latest)
 * Download de vídeos MP4
 * Download de audios MP3/M4A
