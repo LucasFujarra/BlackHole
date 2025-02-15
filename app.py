@@ -2,6 +2,7 @@
 #---_ By Lucas Fujarra _---
 #---_ https://github.com/LucasFujarra _---
 import os
+import re
 import streamlit as st
 from pytubefix import YouTube
 
@@ -27,8 +28,8 @@ if pesquisar :
     media = buscar(link)
     if media:
         #Tratativa de caracteres
-        c = media.title.replace("|", " ")
-        titulo = c
+        r = re.sub(u'[^a-zA-Z0-9áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ: ]','',media.title)
+        titulo = r
         canal = media.author
         audio = media.streams.get_audio_only()
         video = media.streams.get_highest_resolution()
