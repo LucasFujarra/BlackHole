@@ -9,7 +9,7 @@ from pytubefix import YouTube
 #Busca por URL
 def buscar(link):
     try:
-        media = YouTube(link)
+        media = YouTube(link, use_oauth=True, allow_oauth_cache=True)
         return media
     except:
         media = ""
