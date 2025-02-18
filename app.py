@@ -38,7 +38,7 @@ if pesquisar :
         canal = media.author
         audio = media.streams.get_audio_only()
         video = media.streams.get_highest_resolution()
-        st.success("Link Valido")
+        st.success("Link Válido")
         st.text(f"█ Vídeo: {titulo}")
         st.text(f"█ Canal: {canal}")
         st.image(YouTube(link).thumbnail_url)
@@ -66,4 +66,4 @@ if pesquisar :
                
         
     else:
-        st.error("Link invalido")
+        st.error("Link Inválido")
