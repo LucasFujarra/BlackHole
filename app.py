@@ -5,6 +5,9 @@ import os
 import re
 import streamlit as st
 from pytubefix import YouTube
+from pytube.innertube import _default_clients
+
+_default_clients["ANDROID_MUSIC"] = _default_clients["ANDROID_CREATOR"]
 
 #Busca por URL
 def buscar(link):
