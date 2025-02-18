@@ -14,9 +14,11 @@ def buscar(link):
     except:
         media = ""
         return media
+    
 st.set_page_config(
     page_title="BLACK HOLE",
     page_icon="https://raw.githubusercontent.com/LucasFujarra/BlackHole/refs/heads/main/screenshot/background.png",
+           
 )
 #logo
 with st.columns(3)[1]:
@@ -36,7 +38,7 @@ if pesquisar :
         canal = media.author
         audio = media.streams.get_audio_only()
         video = media.streams.get_highest_resolution()
-        st.success("Link Válido")
+        st.success("Link Valido")
         st.text(f"█ Vídeo: {titulo}")
         st.text(f"█ Canal: {canal}")
         st.image(YouTube(link).thumbnail_url)
@@ -64,4 +66,4 @@ if pesquisar :
                
         
     else:
-        st.error("Link Inválido")
+        st.error("Link invalido")
