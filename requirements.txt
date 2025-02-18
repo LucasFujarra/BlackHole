@@ -1,2 +1,2 @@
 streamlit ==1.42.0
-pytubefix ==15.0.0
+pytubefix ==10.0.0
