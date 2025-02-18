@@ -24,9 +24,15 @@
   <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/3.png" width="40%" />
   <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/4.png" width="40%" />
   <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/5.png" width="40%" />
+  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/6.png" width="40%" />
+  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/7.png" width="40%" />
+  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/8.png" width="40%" />
+  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/9.png" width="40%" />
 </div>
 
 # Open on Web 🌐
+* Alguns vídeos da versão online podem apresentar trava de região.
+  
 [<img src="https://miro.medium.com/v2/resize:fit:1400/0*5yINw4AB2CojpC0X.png" alt="Streamlit" height="80">](https://blackhole.streamlit.app/)
 
 # Download 💾
