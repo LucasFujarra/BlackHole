@@ -23,11 +23,11 @@
   <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/2.png" width="40%" />
   <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/3.png" width="40%" />
   <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/4.png" width="40%" />
-  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/5.png" width="40%" />
-  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/6.png" width="40%" />
-  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/7.png" width="40%" />
-  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/8.png" width="40%" />
-  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/9.png" width="40%" />
+  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/5.png" width="45%" />
+  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/6.PNG" width="45%" />
+  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/7.PNG" width="45%" />
+  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/8.PNG" width="45%" />
+  <img src="https://github.com/LucasFujarra/BlackHole/blob/main/screenshot/9.PNG" width="45%" />
 </div>
 
 # Open on Web 🌐
