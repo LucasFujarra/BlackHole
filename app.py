@@ -14,7 +14,10 @@ def buscar(link):
     except:
         media = ""
         return media
-
+st.set_page_config(
+    page_title="BLACK HOLE",
+    page_icon="https://raw.githubusercontent.com/LucasFujarra/BlackHole/refs/heads/main/screenshot/background.png",
+)
 #logo
 with st.columns(3)[1]:
     st.image("https://raw.githubusercontent.com/LucasFujarra/BlackHole/refs/heads/main/screenshot/background.png")
