@@ -75,6 +75,7 @@ while select != "N" :
     time.sleep(1)
     stream.download()
     os.system("cls")
+    
   #Download Concluído
   logo()
   print("█ Download concluído !")
